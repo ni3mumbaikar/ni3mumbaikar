@@ -1,10 +1,10 @@
 # 💫About Me :
 
-I'm currently working on Pose Estimation Project Called Yogtark  
-I'm looking to collaborate on any open source project with node js as backend  
-I'm looking for help with Machine Learning Engineers with Computer Vision or Pose Estimation knowledge  
-I'm currently learning Machine Learning and web3  
-Ask me anything about Android and Java XD
+😎 I'm currently working on Pose Estimation Project Called Yogtark  
+👐 I'm looking to collaborate on any open source project with node js as backend  
+🤝 I'm looking for help with Machine Learning Engineers with Computer Vision or Pose Estimation knowledge  
+💻 I'm currently learning Machine Learning and web3  
+❓ Problem in your android app , try me 
 
 I see more potential in js than python XD IDK why
 
